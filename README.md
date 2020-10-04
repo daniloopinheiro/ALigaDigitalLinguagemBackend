@@ -25,6 +25,10 @@ São mais antigas, com sintaxe e semântica que se aproximam da linguagem da má
 
 [C++](https://pt.wikipedia.org/wiki/C%2B%2B) é uma linguagem de programação compilada multi-paradigma (seu suporte inclui linguagem imperativa, orientada a objetos e genérica) e de uso geral. Desde os anos 1990 é uma das linguagens comerciais mais populares, sendo bastante usada também na academia por seu grande desempenho e base de utilizadores.
 
+<br> <img height="90" src=https://baltaio.blob.core.windows.net/assets/images/dart.png /> [Instalação](https://dart.dev/)
+
+[Dart (linguagem de programação)]() é uma linguagem de script voltada à web desenvolvida pela Google. Ela foi lançada na GOTO Conference 2011,[1] que aconteceu de 10 a 11 de outubro de 2011 em Aarhus, na Dinamarca. O objetivo da linguagem Dart foi inicialmente a de substituir a JavaScript como a linguagem principal embutida nos navegadores.[2] Programas nesta linguagem podem tanto serem executados em uma máquina virtual quanto compilados para JavaScript.
+
 <br> <img height="90" src=https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png /> [Instalação](http://www.golangbr.org/)
 
 [Go (linguagem de programação)](https://pt.wikipedia.org/wiki/Go_(linguagem_de_programa%C3%A7%C3%A3o)) é uma linguagem de programação criada pela Google e lançada em código livre em novembro de 2009. É uma linguagem compilada e focada em produtividade e programação concorrente,[5] baseada em trabalhos feitos no sistema operacional chamado Inferno.[6] O projeto inicial da linguagem foi feito em setembro de 2007 por Robert Griesemer, Rob Pike e Ken Thompson.[5] Atualmente, há implementações para Windows, Linux, Mac OS X e FreeBSD.
