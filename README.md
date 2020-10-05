@@ -1,4 +1,4 @@
-# A Liga Digital - Linguagem [Backend](https://www.totvs.com/blog/developers/back-end/)
+# A Liga Digital - Linguagem [Backend](https://www.dicionarioinformal.com.br/back-end/#:~:text=%5BEstrangeirismo%5D%20%C3%89%20um%20termo%20que,ser%20um%20artefato%20f%C3%ADsico%20qualquer.)
 
 Deixo aqui uma lista de opções das [Linguagem de programação](https://pt.wikipedia.org/wiki/Linguagem_de_programa%C3%A7%C3%A3o) em backend mais utilizadas na área de tecnologia. Tanto para quem inicia-se aos que já estão na área. [Referencias](https://dicasdeprogramacao.com.br/as-10-linguagens-de-programacao-mais-requisitadas-pelo-mercado/#:~:text=Todo%20programador%20web%20deve%20aprender,tamb%C3%A9m%20no%20lado%20back%2Dend.):
 
