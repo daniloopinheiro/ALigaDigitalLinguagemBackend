@@ -25,7 +25,7 @@ São mais antigas, com sintaxe e semântica que se aproximam da linguagem da má
 
 [C++](https://pt.wikipedia.org/wiki/C%2B%2B) é uma linguagem de programação compilada multi-paradigma (seu suporte inclui linguagem imperativa, orientada a objetos e genérica) e de uso geral. Desde os anos 1990 é uma das linguagens comerciais mais populares, sendo bastante usada também na academia por seu grande desempenho e base de utilizadores.
 
-<br><img height="90" src=https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png /> 
+<br><img height="90" src=https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png /> 
 [Instalação](https://dart.dev/)
 
 [Dart (linguagem de programação)]() é uma linguagem de script voltada à web desenvolvida pela Google. Ela foi lançada na GOTO Conference 2011,[1] que aconteceu de 10 a 11 de outubro de 2011 em Aarhus, na Dinamarca. O objetivo da linguagem Dart foi inicialmente a de substituir a JavaScript como a linguagem principal embutida nos navegadores.[2] Programas nesta linguagem podem tanto serem executados em uma máquina virtual quanto compilados para JavaScript.
