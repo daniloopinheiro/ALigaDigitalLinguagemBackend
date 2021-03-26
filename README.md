@@ -17,7 +17,7 @@ São mais antigas, com sintaxe e semântica que se aproximam da linguagem da má
 
 [C](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)) é uma linguagem de programação compilada de propósito geral, estruturada, imperativa, procedural, padronizada pela Organização Internacional para Padronização (ISO), criada em 1972 por Dennis Ritchie na empresa AT&T Bell Labs para desenvolvimento do sistema operacional Unix (originalmente escrito em Assembly).
 
-<br><img height="90" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.qwiklabs.com%2Fquests%2F48%3Flocale%3Dpt_BR&psig=AOvVaw2Anh4jHG2Diha8fX4x1P6s&ust=1616818601501000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiew-WMze8CFQAAAAAdAAAAABAI /> [Instalação](https://docs.microsoft.com/pt-br/visualstudio/get-started/csharp/?view=vs-2019)
+<br><img height="90" src=https://cdn.qwiklabs.com/NxEsnbdUtu7ttyU5H0ejSa32cSvv9jXYK59hd%2B0zj2E%3D /> [Instalação](https://docs.microsoft.com/pt-br/visualstudio/get-started/csharp/?view=vs-2019)
 
 [CSharp](https://pt.wikipedia.org/wiki/C_Sharp) é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. A sua sintaxe orientada a objetos foi baseada no C++ mas inclui muitas influências de outras linguagens de programação, como Object Pascal e, principalmente, Java. O código fonte é compilado para Common Intermediate Language (CIL) que é interpretado pela máquina virtual Common Language Runtime (CLR). C# é uma das linguagens projetadas para funcionar na Common Language Infrastructure da plataforma .NET Framework.
 
