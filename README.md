@@ -17,7 +17,7 @@ São mais antigas, com sintaxe e semântica que se aproximam da linguagem da má
 
 [C](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)) é uma linguagem de programação compilada de propósito geral, estruturada, imperativa, procedural, padronizada pela Organização Internacional para Padronização (ISO), criada em 1972 por Dennis Ritchie na empresa AT&T Bell Labs para desenvolvimento do sistema operacional Unix (originalmente escrito em Assembly).
 
-<br><img height="90" src=https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg /> [Instalação](https://docs.microsoft.com/pt-br/visualstudio/get-started/csharp/?view=vs-2019)
+<br><img height="90" src=https://www.cleanpng.com/png-c-programming-language-logo-microsoft-visual-studi-6389508/ /> [Instalação](https://docs.microsoft.com/pt-br/visualstudio/get-started/csharp/?view=vs-2019)
 
 [CSharp](https://pt.wikipedia.org/wiki/C_Sharp) é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. A sua sintaxe orientada a objetos foi baseada no C++ mas inclui muitas influências de outras linguagens de programação, como Object Pascal e, principalmente, Java. O código fonte é compilado para Common Intermediate Language (CIL) que é interpretado pela máquina virtual Common Language Runtime (CLR). C# é uma das linguagens projetadas para funcionar na Common Language Infrastructure da plataforma .NET Framework.
 
@@ -25,7 +25,7 @@ São mais antigas, com sintaxe e semântica que se aproximam da linguagem da má
 
 [C++](https://pt.wikipedia.org/wiki/C%2B%2B) é uma linguagem de programação compilada multi-paradigma (seu suporte inclui linguagem imperativa, orientada a objetos e genérica) e de uso geral. Desde os anos 1990 é uma das linguagens comerciais mais populares, sendo bastante usada também na academia por seu grande desempenho e base de utilizadores.
 
-<br><img height="90" src=https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg /> 
+<br><img height="90" src=https://commons.wikimedia.org/wiki/File:Dart-logo.png /> 
 [Instalação](https://dart.dev/)
 
 [Dart (linguagem de programação)]() é uma linguagem de script voltada à web desenvolvida pela Google. Ela foi lançada na GOTO Conference 2011,[1] que aconteceu de 10 a 11 de outubro de 2011 em Aarhus, na Dinamarca. O objetivo da linguagem Dart foi inicialmente a de substituir a JavaScript como a linguagem principal embutida nos navegadores.[2] Programas nesta linguagem podem tanto serem executados em uma máquina virtual quanto compilados para JavaScript.
