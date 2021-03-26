@@ -19,13 +19,13 @@ São mais antigas, com sintaxe e semântica que se aproximam da linguagem da má
 
 <br><img height="90" src=https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg /> [Instalação](https://docs.microsoft.com/pt-br/visualstudio/get-started/csharp/?view=vs-2019)
 
-[C Sharp](https://pt.wikipedia.org/wiki/C_Sharp) é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. A sua sintaxe orientada a objetos foi baseada no C++ mas inclui muitas influências de outras linguagens de programação, como Object Pascal e, principalmente, Java. O código fonte é compilado para Common Intermediate Language (CIL) que é interpretado pela máquina virtual Common Language Runtime (CLR). C# é uma das linguagens projetadas para funcionar na Common Language Infrastructure da plataforma .NET Framework.
+[CSharp](https://pt.wikipedia.org/wiki/C_Sharp) é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. A sua sintaxe orientada a objetos foi baseada no C++ mas inclui muitas influências de outras linguagens de programação, como Object Pascal e, principalmente, Java. O código fonte é compilado para Common Intermediate Language (CIL) que é interpretado pela máquina virtual Common Language Runtime (CLR). C# é uma das linguagens projetadas para funcionar na Common Language Infrastructure da plataforma .NET Framework.
 
 <br><img height="90" src=https://img.icons8.com/color/452/c-plus-plus-logo.png /> [Instalação](https://netbeans.org/community/releases/60/cpp-setup-instructions_pt_BR.html#:~:text=Selecione%20Ferramentas%20%3E%20Plug%2Dins%20no,Clique%20em%20Instalar.)
 
 [C++](https://pt.wikipedia.org/wiki/C%2B%2B) é uma linguagem de programação compilada multi-paradigma (seu suporte inclui linguagem imperativa, orientada a objetos e genérica) e de uso geral. Desde os anos 1990 é uma das linguagens comerciais mais populares, sendo bastante usada também na academia por seu grande desempenho e base de utilizadores.
 
-<br> <img height="90" src=https://baltaio.blob.core.windows.net/assets/images/dart.png /> [Instalação](https://dart.dev/)
+<br> <img height="90" src=![image](https://user-images.githubusercontent.com/64677271/112574627-796e0e80-8dcd-11eb-95d1-ea795a7819b4.png)/> [Instalação](https://dart.dev/)
 
 [Dart (linguagem de programação)]() é uma linguagem de script voltada à web desenvolvida pela Google. Ela foi lançada na GOTO Conference 2011,[1] que aconteceu de 10 a 11 de outubro de 2011 em Aarhus, na Dinamarca. O objetivo da linguagem Dart foi inicialmente a de substituir a JavaScript como a linguagem principal embutida nos navegadores.[2] Programas nesta linguagem podem tanto serem executados em uma máquina virtual quanto compilados para JavaScript.
 
